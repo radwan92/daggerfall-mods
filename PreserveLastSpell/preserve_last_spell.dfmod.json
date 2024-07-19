@@ -1,0 +1,13 @@
+{
+    "ModTitle": "Preserve Last Spell",
+    "ModVersion": "0.0.1",
+    "ModAuthor": "radwan",
+    "ContactInfo": "filip.radwaniecki@gmail.com",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Saves last casted spell so recasting can be used immediately after loading a game save.",
+    "GUID": "ea7bf041-2f23-4ba2-a42f-f50d5333ba72",
+    "Files": [
+        "Assets/Game/Mods/PreserveLastSpell/PreserveLastSpell.cs",
+        "Assets/Game/Mods/PreserveLastSpell/preserve_last_spell.dfmod.json"
+    ]
+}

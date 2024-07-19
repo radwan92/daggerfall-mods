@@ -1,0 +1,14 @@
+{
+    "ModTitle": "City Fast Travel",
+    "ModVersion": "0.0.1",
+    "ModAuthor": "radwan",
+    "ContactInfo": "filip.radwaniecki@gmail.com",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Allows for fast travel in the cities. When using city map, click on the destination with Middle Mouse Button to travel.",
+    "GUID": "1273d68f-6a8d-4957-9d82-6ed7a88deb64",
+    "Files": [
+        "Assets/Game/Mods/CityFastTravel/modsettings.json",
+        "Assets/Game/Mods/CityFastTravel/CityFastTravel.cs",
+        "Assets/Game/Mods/CityFastTravel/city_fast_travel.dfmod.json"
+    ]
+}
